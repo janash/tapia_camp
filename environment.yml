@@ -1,0 +1,12 @@
+name: tapia_env
+
+channels:
+  - psi4
+
+dependencies:
+  - matplotlib
+  - pandas
+  - scipy
+  - psi4
+  - psi4-rt
+  - python=3.6
